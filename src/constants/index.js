@@ -36,6 +36,7 @@ import {
   travelJS,
   hotelJS,
   namlsoft,
+  nikePro,
 } from "../assets";
 
 export const navLinks = [
@@ -284,7 +285,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    // image: nikeJS,
+    image: nikePro,
     source_code_link: "https://github.com/mohammedsanaved/front-nike-stripe",
     demo_link: "https://front-nike-stripe-2bh2.vercel.app/",
   },
