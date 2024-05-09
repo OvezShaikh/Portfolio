@@ -24,7 +24,8 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import nikePro from "./nikePro.png";
-import nikeJS from "./nikeJS.jpg";
+// import nikeJS from "./nikeJS.jpg";
+
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -80,7 +81,7 @@ export {
   natours,
   trillo,
   forkify,
-  nikeJS,
+  // nikeJS,
   pizzaJs,
   recipeJS,
   travelJS,
