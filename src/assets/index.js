@@ -34,6 +34,8 @@ import tesla from "./company/tesla.png";
 import hotelJS from "./hotelJS.jpg";
 import namlsoft from "./company/namlsoft.png";
 import LCSlogo from "./company/LCSlogo.png";
+import Fairseed from "../assets/Fairseed.png";
+import Memonaid from "../assets/Memonaid.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -90,4 +92,6 @@ export {
   main,
   namlsoft,
   LCSlogo,
+  Fairseed,
+  Memonaid
 };

@@ -37,6 +37,8 @@ import {
   hotelJS,
   namlsoft,
   nikePro,
+  Fairseed,
+  Memonaid,
 } from "../assets";
 
 export const navLinks = [
@@ -290,52 +292,56 @@ const projects = [
     demo_link: "https://front-nike-stripe-2bh2.vercel.app/",
   },
   {
-    name: "Pizza Shop",
+    name: "Fairseed",
     description:
-      "Add your Fav Dish on Your Table.Enable users to pay for the Product .Solely responsible for the development and deployment of the project",
+      "Sow Knowledge, Reap Change: Crowdfunding Education with FairSeed",
     tags: [
       {
         name: "ReactJs",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Tailwind CSS",
         color: "pink-text-gradient",
       },
       {
-        name: "Redux",
+        name: "MUI",
         color: "green-text-gradient",
       },
+      {
+        name: "Formik",
+        color: "blue-text-gradient",
+      },
     ],
-    image: pizzaJs,
-    source_code_link: "https://github.com/mohammedsanaved/react-pizza",
-    demo_link: "https://react-pizza-murex.vercel.app/",
+    image: Fairseed,
+    source_code_link: "https://github.com/OvezShaikh/Fairseed",
+    demo_link: "https://dev.fairseed.org/Home",
   },
   {
-    name: "Natours",
+    name: "Memonaid",
     description:
-      "A beautiful Landing Page for a fictional adventour tour company Built while learning Advanced CSS and Sass",
+      "Memon Aid International is a India-based humanitarian relief charity providing support.",
     tags: [
       {
-        name: "Advanced CSS",
+        name: "React JS",
         color: "blue-text-gradient",
       },
       {
-        name: "Pseudo classes & elements",
+        name: "Tailwind CSS",
         color: "pink-text-gradient",
       },
       {
-        name: "7-1 Sass Architecture",
+        name: "Material UI",
         color: "green-text-gradient",
       },
       {
-        name: "BEM Methodology",
+        name: "Formik",
         color: "blue-text-gradient",
       },
     ],
-    image: travelJS,
-    source_code_link: "https://github.com/mohammedsanaved/Natours",
-    demo_link: "https://toursite-sable.vercel.app/",
+    image: Memonaid,
+    source_code_link: "https://github.com/OvezShaikh/MemonAid",
+    demo_link: "https://memonaid.org/",
   },
   {
     name: "Trillo",
